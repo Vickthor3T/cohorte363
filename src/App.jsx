@@ -1,5 +1,5 @@
 import "./App.css";
-import LoginForm from "./components/loginForm";
+import LoginForm from "./components/LoginForm";
 import Header from "./components/Header/Header";
 import { Route, Routes } from "react-router-dom";
 import Dashboard from "./components/Dashboard";
