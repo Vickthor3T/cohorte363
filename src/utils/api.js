@@ -48,6 +48,6 @@ class Api {
   }
 }
 
-const api = new Api("http://localhost:3001/api/");
+const api = new Api("https://api.cohorte36.mooo.com/");
 
 export default api;
